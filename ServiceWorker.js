@@ -1,9 +1,9 @@
-const cacheName = "Blazttech-Blazttech-0.1.0";
+const cacheName = "Blazttech-Blazttech-1.0";
 const contentToCache = [
-    "Build/Builds.loader.js",
-    "Build/Builds.framework.js.unityweb",
-    "Build/Builds.data.unityweb",
-    "Build/Builds.wasm.unityweb",
+    "Build/Blazttech.loader.js",
+    "Build/Blazttech.framework.js.unityweb",
+    "Build/Blazttech.data.unityweb",
+    "Build/Blazttech.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
